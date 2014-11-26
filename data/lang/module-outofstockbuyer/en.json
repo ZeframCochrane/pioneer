@@ -1,0 +1,26 @@
+{
+   "OOS_TRADER_0" : {
+      "description" : "",
+      "message" : "LOOKING TO BUY {Cargo} for {Price} ea."
+   },
+   "OOS_TRADER_1" : {
+      "description" : "",
+      "message" : "WANTED: {Cargo}. Willing to pay {Price} ea!"
+   },
+   "OOS_TRADER_2" : {
+      "description" : "",
+      "message" : "Desperately looking to buy {Cargo}. Willing to pay {Price} ea!"
+   },
+   "OOS_TRADER_3" : {
+      "description" : "",
+      "message" : "In need of {Cargo}. Will pay {Price} ea."
+   },
+   "WELCOME" : {
+      "description" : "",
+      "message" : "I am desperately looking to buy {Cargo}. Got any for sale?"
+   },
+   "SELL_GOOD" : {
+      "description" : "",
+      "message" : "Sell 1t of {Cargo} for {Price}. ({Quantity}t in cargo bay)"
+   }
+}
